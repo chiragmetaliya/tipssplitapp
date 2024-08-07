@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tipssplitapp/static/css/main.d279a85a.css",
+    "main.js": "/tipssplitapp/static/js/main.0a0e8ab9.js",
+    "index.html": "/tipssplitapp/index.html",
+    "main.d279a85a.css.map": "/tipssplitapp/static/css/main.d279a85a.css.map",
+    "main.0a0e8ab9.js.map": "/tipssplitapp/static/js/main.0a0e8ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d279a85a.css",
+    "static/js/main.0a0e8ab9.js"
+  ]
+}
